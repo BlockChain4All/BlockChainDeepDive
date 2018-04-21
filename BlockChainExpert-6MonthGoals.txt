@@ -1,0 +1,123 @@
+Ethereum Deep Dive, Goals
+
+Month 1 (March):
+--------
+We completed the basics
+
+Month 2 (April):
+--------
+Week5:
+	SmartContracts
+		-Deeper understanding of Solidity
+		-Solidity IDEs/Compilers
+		-Deploying Smart Contracts to Ganache and Rinkeby
+		-Testing Smart Contracts
+		-Getting Dummy Ether from Faucets
+
+	Understanding MetaMask app 
+		-Interacting with Ethereum Application
+		-Usage of Faucet (In real world it means buying Ether)
+
+Week6:	
+	
+	Building Ethereum Applications
+		- complile Solidity code using Node.js
+		- deploy Solidity code using Node.js		
+	Smart Contracts
+		- Testing Solidity code using Mocha
+		- Using Assertions during the testing
+	Readymade Networks
+		- configuring Infura for the application
+		- deploy to Infura based Rinkeby network
+	
+Week7:
+
+	Advanced Smart Contracts
+		- The Lottery Application
+		- getting acquainted with Solidity Data Types
+			- basic data types (int, uint, string etc)
+			- complex data types (Arrays, Struct,Mappings, Address etc)
+		- using payable methods to accept Ether payments
+		- using require to notate minimum payment associated
+		- debugging using Remix		
+		
+	Identify the ICO projects and white papers that the team is interested to be picked up for Week 8
+	
+	BlockChain news cast for sharing with in the team	
+	
+	Identify the basics for BlockChain Conceptual Foundation
+		- How does an actual Block look like on Ethereum
+			- how does a transaction flow into the network and a structure
+		- Merkle Trees on Ethereum
+		- How Consensus actually happens on Ethereum BlockChain
+			- How is difficulty level arrived at by the platform
+		- How a getMessage read data from BlockChain
+
+Week8:
+
+	Advanced Smart Contracts
+		- using try-catch in Solidity
+	Developing a DApp
+		-How to make FrontEnd that can interact with Ethereum BlockChain/SmartContracts deployed in Rinkeby
+	Accessing Smart Contract Properties
+	Interact with Smart Contracts developed by other team members
+	Building a Voting System using Ethereum
+	Refactoring Solidity code	
+	
+	Building deeper understanding of concepts like MerkleTrees
+	
+	Discuss about 3 identified White Papers for popular ICOs
+	
+
+Month 3 (May):
+--------
+Week9:
+	
+	Setting up Ethereum Project Infra-structure[Course]
+	Advanced Multi-page front ends [Course]
+	End to End testing using Ethereum [Course]
+	Discuss about 3 more identified White Papers for Popular ICOs
+	Discuss about ideas that we can pickup for doing an ICO
+	
+Week10:
+	
+	Building deeper understanding of concepts like MerkleTrees
+	Writing Solidity code for ICOs & DA ICOs
+	Ideas BrainStorming
+	Initial Draft for the White Paper
+
+Week11:
+
+	Finalize the code launch of an ICO
+		Implement a ERC 20 or ERC 23 Token
+	Finalize the Draft White Paper
+	How to promote for the ICO	
+
+Week12:
+
+	Launch an ICO (This is for club member loyalty token) by the time we meet on May 26
+	
+		Publish a White Paper
+		Answer questions like:
+			Who mines our Tokens or how we can give incentive for people
+			How valuation from our Token translates into Ether			
+		How to launch a Token Sale
+		Implement a website that promote how the token works
+		How to list the Token on exchanges like Binance or Bittrex
+		
+Month 4 (June):
+---------------
+ 
+	When we meet on June 2
+	Start taking up a real world problem like Implement Voting using BlockChain for Hyderabad City
+	We can do better on taking any real world problem which solves a real problem
+
+Month 5 (July):
+---------------
+
+Month 6 (August):
+-----------------
+
+	Successfully complete a full scale production solution, on Ethereum BlockChain when we meet on August 25
+	
+	*********************** Fly out with colors ********************
