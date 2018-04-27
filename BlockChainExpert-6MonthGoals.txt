@@ -60,28 +60,30 @@ Week8:
 	Developing a DApp
 		-How to make FrontEnd that can interact with Ethereum BlockChain/SmartContracts deployed in Rinkeby
 	Accessing Smart Contract Properties
-	Interact with Smart Contracts developed by other team members
-	Building a Voting System using Ethereum
-	Refactoring Solidity code	
+		
 	
 	Building deeper understanding of concepts like MerkleTrees
 	
 	Discuss about 3 identified White Papers for popular ICOs
 	
 
-Month 3 (May):
---------
+
 Week9:
-	
-	Setting up Ethereum Project Infra-structure[Course]
-	Advanced Multi-page front ends [Course]
-	End to End testing using Ethereum [Course]
+
+	Building a Voting System using Ethereum[Course, Module5]
+	Interact with Smart Contracts developed by other team members
+	Refactoring Solidity code
+	Building deeper understanding of concepts like MerkleTrees
 	Discuss about 3 more identified White Papers for Popular ICOs
 	Discuss about ideas that we can pickup for doing an ICO
-	
+
+--------
+Month 3 (May):
+
 Week10:
-	
-	Building deeper understanding of concepts like MerkleTrees
+	Setting up Ethereum Project Infra-structure[Course]
+	Advanced Multi-page front ends [Course]
+	End to End testing using Ethereum [Course]	
 	Writing Solidity code for ICOs & DA ICOs
 	Ideas BrainStorming
 	Initial Draft for the White Paper
