@@ -88,14 +88,14 @@ Week10:
 	Ideas BrainStorming
 	Initial Draft for the White Paper
 
-Week11:
+Week11 & week 12:
 
 	Finalize the code launch of an ICO
 		Implement a ERC 20 or ERC 23 Token
 	Finalize the Draft White Paper
 	How to promote for the ICO	
 
-Week12:
+Week13:
 
 	Launch an ICO (This is for club member loyalty token) by the time we meet on May 26
 	
